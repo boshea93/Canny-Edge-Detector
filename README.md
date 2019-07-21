@@ -1,5 +1,4 @@
 # Canny-Edge-Detector
-<h1>Project for Creating a Canny Edge Detector in Python (Input File Format bmp)</h1>
 
 <h2>About</h2>
 The purpose of this assignment was to create a canny edge detector in Python. There are 4 main steps in producing our final results. First,
